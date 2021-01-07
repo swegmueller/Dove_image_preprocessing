@@ -6,7 +6,7 @@ Planet_masking_udm_and_udm2 is a Jupyter notebook for masking a Dove image using
 UDM an UDM2 files.  Feel free to download and edit as needed. 
 
 Planet_masking_whole order does the same thing as Planet_masking_udm_and_udm2, but is set up to do
-an entire order from Planet Explorer (not sure if this will work with order via the API -- haven't
+an entire order from Planet Explorer (not sure if this will work with orders via the API -- haven't
 tested it yet).  I'm lazy and I like efficiency... 
 
 TopoCorrectionClass is a class I wrote to make topographical correction of Dove imagery easy. 
